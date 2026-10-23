@@ -18,3 +18,4 @@
 4. 等待 Pages 构建完成；访问 `https://你的用户名.github.io/shop-pilot-global-demo/`，在电脑和手机上都试一次选购流程。
 
 GitHub Pages 只能运行静态前端。这份页面里的推荐是本地预设规则，不是实时 AI 回答。若以后计划提供真实 Agent 体验，还需要另外部署后端、确认所使用代码的公开部署权限、设置访客隔离、调用限额和服务器端密钥。
+在线演示：ShopPilot-Global 静态交互原型。
